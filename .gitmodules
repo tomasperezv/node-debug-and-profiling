@@ -1,0 +1,3 @@
+[submodule "dtrace4linux"]
+	path = dtrace4linux
+	url = git@github.com:dtrace4linux/linux.git
